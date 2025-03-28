@@ -6,12 +6,9 @@ EatWell is a comprehensive mobile application designed to simplify nutrition tra
 
 <div align="center">
   <img src="assets/images/dashBoardScreen.PNG" alt="Dashboard Screen" width="230" style="margin-right: 10px;"/>
-  <img src="assets/images/diaryScreen.PNG" alt="Food Diary Screen" width="230" style="margin-right: 10px;"/>
-  <img src="assets/images/mealPlanScreen2.PNG" alt="Meal Plan Screen" width="230"/>
-</div>
-
-<div align="center">
-  <img src="assets/images/profileScreen.PNG" alt="Profile Screen" width="230"/>
+  <img src="assets/images/mealPlanScreen2.PNG" alt="Meal Plan Screen" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/profileScreen.PNG" alt="Profile Screen" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/diaryScreen.PNG" alt="Food Diary Screen" width="230"/>
 </div>
 
 ### 🍽️ Multiple Ways to Log Your Food
@@ -27,6 +24,7 @@ EatWell is a comprehensive mobile application designed to simplify nutrition tra
   <img src="assets/images/logFoodOptions Screen.PNG" alt="Food Logging Options" width="230" style="margin-right: 10px;"/>
   <img src="assets/images/quickAddFoodScreen.PNG" alt="Quick Food Addition" width="230"/>
 </div>
+
 
 ## 🌟 Features
 
