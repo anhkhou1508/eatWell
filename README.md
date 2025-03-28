@@ -2,7 +2,33 @@
 
 EatWell is a comprehensive mobile application designed to simplify nutrition tracking and meal planning with advanced AI-powered features. The app helps users make healthier food choices, track their nutritional intake, and create personalized meal plans tailored to their dietary preferences.
 
-![EatWell App]() <!-- Screen shot URL-->
+## 📱 App Screenshots
+
+<div align="center">
+  <img src="assets/images/dashBoardScreen.PNG" alt="Dashboard Screen" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/diaryScreen.PNG" alt="Food Diary Screen" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/profileScreen.PNG" alt="Profile Screen" width="230"/>
+</div>
+
+<div align="center">
+  <img src="assets/images/mealPlanScreen1.PNG" alt="Meal Plan Screen" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/scanAMealScreen1.PNG" alt="Scan A Meal" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/logFoodOptions Screen.PNG" alt="Food Logging Options" width="230"/>
+</div>
+
+### 🍽️ Multiple Ways to Log Your Food
+
+<div align="center">
+  <img src="assets/images/scanAMealScreen2.PNG" alt="AI Meal Analysis" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/logFoodByVoiceScreen2.PNG" alt="Voice Logging" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/logFoodByBarcodeScreen.PNG" alt="Barcode Scanning" width="230"/>
+</div>
+
+<div align="center">
+  <img src="assets/images/quickAddFoodScreen.PNG" alt="Quick Food Addition" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/logFoodByVoiceScreen3.PNG" alt="Voice Recognition Results" width="230" style="margin-right: 10px;"/>
+  <img src="assets/images/mealPlanScreen2.PNG" alt="Detailed Meal Plan" width="230"/>
+</div>
 
 ## 🌟 Features
 
@@ -66,11 +92,11 @@ EatWell is a comprehensive mobile application designed to simplify nutrition tra
 
 ## 📱 App Structure
 
-- **Home Screen**: Dashboard with daily nutrition overview and meal cards
-- **Food Diary**: Log and track your daily meals
-- **Meal Planning**: AI-generated meal plans based on your preferences
-- **Food Logging Tools**: Multiple methods to log your food intake
-- **Profile**: User preferences and settings
+- **Dashboard**: Overview of daily nutrition and progress tracking ([screenshot](#-app-screenshots))
+- **Food Diary**: Log and track your daily meals ([screenshot](#-app-screenshots))
+- **Meal Planning**: AI-generated meal plans based on your preferences ([screenshot](#️-multiple-ways-to-log-your-food))
+- **Food Logging Tools**: Multiple methods to log your food intake ([screenshot](#️-multiple-ways-to-log-your-food))
+- **Profile**: User preferences and settings ([screenshot](#-app-screenshots))
 
 ## 🔮 Future Enhancements
 
